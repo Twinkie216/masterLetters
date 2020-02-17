@@ -4,4 +4,9 @@ body {
 
 p {
     font-size: 3px;
+    color: white;
+}
+
+h2 {
+    color: purple;
 }
